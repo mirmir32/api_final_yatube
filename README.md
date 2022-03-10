@@ -13,6 +13,7 @@
 Клонируем репозиторий на локальную машину:
 
 ```$ git clone https://github.com/mirmir32/api_final_yatube.git```
+ 
  Создаем виртуальное окружение:
  
  ```$ python -m venv venv```
